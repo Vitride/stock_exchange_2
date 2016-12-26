@@ -4,6 +4,8 @@
 #include "company.h"
 
 /*
+
+bite
  * une entreprise est caracterisee par 3 parametres :
  * - son label : c'est a dire l'indice qui lui sera associe dans le tableau comp de la structure stock_exchange
  * - son capital : l'argent qu'elle possede, la valeur de l'entreprise
